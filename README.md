@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems u
 
 ## 🌟 Featured Projects:
 - **Sales Prediction**: Predicting sales using various features and machine learning techniques. [Explore the repo](https://github.com/Areej73/Prediction-of-Product-Sales.git).
-- **Happiness Report Analysis**: A deep dive into world happiness data, examining correlations and trends. [Check it out](https://github.com/Areej73/happiness-report-analysis).
 
 ## 🛠️ Technical Skills:
 - Programming: Python, SQL
